@@ -1,0 +1,4 @@
+<?php
+
+DEFINE('NIVEL_ADM', 1);
+DEFINE('NIVEL_USER', 2);
